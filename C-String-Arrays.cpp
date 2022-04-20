@@ -1,6 +1,3 @@
-// Lab10B
-// Programmer : Luke Tascone 
-
 #include <iostream>
 #include <string> 
 #include <stdlib.h>
